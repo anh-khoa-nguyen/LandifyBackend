@@ -1,0 +1,4 @@
+# landify_backend/netlify.toml
+
+[functions]
+  directory = "netlify/functions"
