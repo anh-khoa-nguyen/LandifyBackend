@@ -1,0 +1,6 @@
+[
+  { "name": "Căn hộ", "code": "APARTMENT", "apiId": 1 },
+  { "name": "Nhà phố", "code": "TOWNHOUSE", "apiId": 2 },
+  { "name": "Đất nền", "code": "LAND", "apiId": 3 },
+  { "name": "Dự án", "code": "PROJECT", "apiId": 4 }
+]

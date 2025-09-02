@@ -11,6 +11,8 @@
   "description": "",
   "dependencies": {
     "agora-token": "^2.0.5",
-    "dotenv": "^17.2.1"
+    "dotenv": "^17.2.1",
+    "firebase-admin": "^13.5.0",
+    "mongodb": "^6.19.0"
   }
 }
